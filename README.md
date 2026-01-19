@@ -1,2 +1,1 @@
-# lab
-git lab
+writing in README file

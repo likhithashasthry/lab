@@ -1,1 +1,1 @@
-writing in README file
+For lab exam I got program 2

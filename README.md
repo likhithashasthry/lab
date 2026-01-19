@@ -1,6 +1,6 @@
 <h3>For lab exam I got program 2 (creating and managing branches)</h3> <br>
-<h2>Commands used: </h2><br> <br>
-git init : to initilize git repository. <br>
+<h2>Commands used: </h2><br> 
+git init : to initilize git repository. <br> <br>
 git clone "<git URL> : cloning all the files from remote repository to local repository. <br> <br>
 git checkout -b <branch name> : this is used to create new branch and switch to that branch. <br> <br>
 echo "<changes>"><filename> : thia is used to make any modification in the perticular file. <br> <br>
